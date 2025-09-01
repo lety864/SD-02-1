@@ -10,10 +10,18 @@ Clonar el respositorio
 ```bash
 git clone sshurl
 ```
+Moverse al repositorio clonado
+```bash
+cd nombreDelRepo
+```
 
 Instalar las dependencias
 ```bash
 npm install
+```
+Abrir en vscode
+```bash
+code .
 ```
 
 ## Pista
